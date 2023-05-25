@@ -1,0 +1,13 @@
+import numpy as np
+from matplotlib import pyplot as plt
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+plt.rcParams['font.sans-serif'] = 'Arial' # Choose a nice font here
+plt.rcParams['font.size'] = 7 # standard font size
+plt.rcParams['mathtext.fontset'] = 'custom'
+plt.rcParams['mathtext.rm'] = 'Arial'
+plt.rcParams['mathtext.it'] = 'Arial'
+plt.rcParams['figure.facecolor'] = 'white' # make sure background isn't transparent
+plt.rcParams['figure.dpi'] = 100
+import matplotlib.pyplot as plt
